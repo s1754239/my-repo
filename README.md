@@ -7,4 +7,5 @@ Let's give git a bash!
 
 '''MATLAB
 sine = sin(2 * pi * frequency * N)
+soundsc(sine, Fs);
 '''
